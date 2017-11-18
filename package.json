@@ -1,0 +1,24 @@
+{
+  "name": "diff-match-patch",
+  "version": "1.0.0",
+  "description": "Diff, Match and Patch Library http://code.google.com/p/google-diff-match-patch/ Neil Fraser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanz/diff-match-patch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huanz/diff-match-patch/issues"
+  },
+  "homepage": "https://github.com/huanz/diff-match-patch#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "download": "^6.2.5"
+  }
+}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/101/trunk/objectivec/Tests
+END
+DiffMatchPatchTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/101/trunk/objectivec/Tests/DiffMatchPatchTest.m
+END
+DiffMatchPatchTest-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/88/trunk/objectivec/Tests/DiffMatchPatchTest-Info.plist
+END
+DiffMatchPatchTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/objectivec/Tests/DiffMatchPatchTest.h
+END
+speedtest.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/88/trunk/objectivec/Tests/speedtest.m
+END

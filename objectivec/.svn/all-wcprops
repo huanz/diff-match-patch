@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/103/trunk/objectivec
+END
+MinMaxMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/88/trunk/objectivec/MinMaxMacros.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/88/trunk/objectivec/Info.plist
+END
+speedtest_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/88/trunk/objectivec/speedtest_Prefix.pch
+END
+NSString+UriCompatibility.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/88/trunk/objectivec/NSString+UriCompatibility.m
+END
+DiffMatchPatchCFUtilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/100/trunk/objectivec/DiffMatchPatchCFUtilities.c
+END
+DiffMatchPatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/102/trunk/objectivec/DiffMatchPatch.h
+END
+DiffMatchPatch_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/trunk/objectivec/DiffMatchPatch_Prefix.pch
+END
+Speedtest1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/88/trunk/objectivec/Speedtest1.txt
+END
+DiffMatchPatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/103/trunk/objectivec/DiffMatchPatch.m
+END
+DiffMatchPatchCFUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/88/trunk/objectivec/DiffMatchPatchCFUtilities.h
+END
+Speedtest2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/88/trunk/objectivec/Speedtest2.txt
+END
+NSMutableDictionary+DMPExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/88/trunk/objectivec/NSMutableDictionary+DMPExtensions.h
+END
+NSMutableDictionary+DMPExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/88/trunk/objectivec/NSMutableDictionary+DMPExtensions.m
+END
+NSString+JavaSubstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/trunk/objectivec/NSString+JavaSubstring.h
+END
+NSString+UnicharUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/88/trunk/objectivec/NSString+UnicharUtilities.h
+END
+NSString+JavaSubstring.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/trunk/objectivec/NSString+JavaSubstring.m
+END
+NSString+UriCompatibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/88/trunk/objectivec/NSString+UriCompatibility.h
+END
+NSString+UnicharUtilities.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/88/trunk/objectivec/NSString+UnicharUtilities.m
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/105/trunk/javascript
+END
+diff_match_patch.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/105/trunk/javascript/diff_match_patch.js
+END
+diff_match_patch_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/80/trunk/javascript/diff_match_patch_test.html
+END
+diff_match_patch_uncompressed.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/103/trunk/javascript/diff_match_patch_uncompressed.js
+END
+diff_match_patch_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/102/trunk/javascript/diff_match_patch_test.js
+END

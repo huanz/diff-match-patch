@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/100/trunk/cpp
+END
+diff_match_patch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/100/trunk/cpp/diff_match_patch.cpp
+END
+diff_match_patch_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/81/trunk/cpp/diff_match_patch_test.h
+END
+diff_match_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/100/trunk/cpp/diff_match_patch.h
+END
+diff_match_patch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/81/trunk/cpp/diff_match_patch.pro
+END
+diff_match_patch_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/100/trunk/cpp/diff_match_patch_test.cpp
+END
